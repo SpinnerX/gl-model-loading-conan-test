@@ -1,0 +1,1 @@
+. "/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/generators/conanrunenv-release-armv8.sh"

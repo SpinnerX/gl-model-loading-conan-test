@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+CMakeUserPresets.json
+compile_commands.json
+
