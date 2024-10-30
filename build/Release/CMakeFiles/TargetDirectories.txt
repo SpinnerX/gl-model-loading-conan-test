@@ -1,5 +1,0 @@
-/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/CMakeFiles/OpenGL-ModelLoading.dir
-/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/CMakeFiles/copy-compile-commands.dir
-/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/CMakeFiles/generate-compile-commands.dir
-/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/CMakeFiles/edit_cache.dir
-/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/CMakeFiles/rebuild_cache.dir

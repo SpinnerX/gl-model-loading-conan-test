@@ -1,1 +1,0 @@
-. "/Users/aaronher/Desktop/gl-model-loading-conan-test/build/Release/generators/deactivate_conanrunenv-release-armv8.sh"
